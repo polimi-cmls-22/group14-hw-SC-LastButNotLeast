@@ -11,7 +11,9 @@ Group 14 repository for the SC homework of CMLS 2022
 ## Assignment 4 - Octaver
 
 ## The Idea
-LBNL-O is a SuperCollider-made effects box which consists of two different types of octavers for analogue sygnals and added effects (delay and reverb). The two octavers are implemented in two ways:
+![](./LBNL-O.png)
+
+**LBNL-O** is a SuperCollider-made effects box which consists of two different types of octavers for analogue sygnals and added effects (delay and reverb). The two octavers are implemented in two ways:
 - **RM (Ring Modulation) Octaver**
 - **Polyphonic (PitchShift) Octaver**
 
