@@ -17,6 +17,8 @@ Group 14 repository for the SC homework of CMLS 2022
 - **RM (Ring Modulation) Octaver**
 - **Polyphonic (PitchShift) Octaver**
 
+ With a guitar and the **Polyphonic Octaver** you can recreate sounds that resemble organs, cello and different types of pads. Instead the **RM Octaver** is very effective in simulating the sound of a bass
+
 ## HOWTO
 To correctly run the SuperCollider Code one needs to follow these steps:
 
